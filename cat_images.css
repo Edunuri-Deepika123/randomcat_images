@@ -1,0 +1,26 @@
+
+#images{
+    height: auto;
+    width: 90%;
+    display: none;
+    object-fit: cover;
+    max-width: 500px;
+    margin: 15px auto;
+    border-radius:10px ;
+    /*margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;*/
+}
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    padding: 10px 20px;
+}
+div h1{
+    font-size: clamp(22px,5vw,36px);
+    margin-bottom: 15px;
+    
+}
